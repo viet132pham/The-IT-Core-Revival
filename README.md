@@ -1,3 +1,36 @@
+# 🖥️ Relationship Between Courses & IT Fields  
+
+## 📌 Backend Development  
+- **Data Structures & Algorithms**: Optimize performance and manage data efficiently.  
+- **Databases**: Design, manage, and optimize queries.  
+- **Programming Languages**: Use Java, C#, Python for backend development.  
+- **Operating Systems**: Understand process management and memory to optimize backend applications.  
+
+## 🎨 Frontend Development  
+- **Programming Languages**: HTML, CSS, JavaScript, and frameworks like React, Angular.  
+- **User Interface**: Principles of UI/UX design.  
+- **Computer Graphics**: Knowledge of graphics for animations and visual effects.  
+
+## 🚀 DevOps  
+- **Computer Networks**: Understand network protocols, routing, and security.  
+- **Operating Systems**: System administration, especially Linux.  
+- **DevOps Tools**: Use Docker, Kubernetes, Jenkins for deployment and application management.  
+- **Software Project Management**: Knowledge of Agile, Scrum for development processes.  
+
+## 🤖 Artificial Intelligence (AI)  
+- **Mathematics**: Linear Algebra, Calculus, and Probability for machine learning algorithms.  
+- **Data Structures & Algorithms**: Design and optimize AI algorithms.  
+- **Programming Languages**: Python is commonly used for AI development.  
+- **Natural Language Processing & Computer Vision**: Specialized AI courses.  
+
+## 🔐 Cybersecurity  
+- **Computer Networks**: Understand protocols and network structures to detect and prevent attacks.  
+- **Operating Systems**: Secure system management and access control.  
+- **Cryptography**: Secure communication and data protection.  
+- **Information Security**: Detect and respond to security threats.  
+
+---
+
 # 🖥️ Mối Liên Hệ Giữa Các Môn Học & Lĩnh Vực IT  
 
 ## 📌 Backend Development  
@@ -30,34 +63,3 @@
 - **An toàn thông tin**: Phát hiện và ứng phó với các mối đe dọa bảo mật.  
 
 ---
-
-# 🖥️ Relationship Between Courses & IT Fields  
-
-## 📌 Backend Development  
-- **Data Structures & Algorithms**: Optimize performance and manage data efficiently.  
-- **Databases**: Design, manage, and optimize queries.  
-- **Programming Languages**: Use Java, C#, Python for backend development.  
-- **Operating Systems**: Understand process management and memory to optimize backend applications.  
-
-## 🎨 Frontend Development  
-- **Programming Languages**: HTML, CSS, JavaScript, and frameworks like React, Angular.  
-- **User Interface**: Principles of UI/UX design.  
-- **Computer Graphics**: Knowledge of graphics for animations and visual effects.  
-
-## 🚀 DevOps  
-- **Computer Networks**: Understand network protocols, routing, and security.  
-- **Operating Systems**: System administration, especially Linux.  
-- **DevOps Tools**: Use Docker, Kubernetes, Jenkins for deployment and application management.  
-- **Software Project Management**: Knowledge of Agile, Scrum for development processes.  
-
-## 🤖 Artificial Intelligence (AI)  
-- **Mathematics**: Linear Algebra, Calculus, and Probability for machine learning algorithms.  
-- **Data Structures & Algorithms**: Design and optimize AI algorithms.  
-- **Programming Languages**: Python is commonly used for AI development.  
-- **Natural Language Processing & Computer Vision**: Specialized AI courses.  
-
-## 🔐 Cybersecurity  
-- **Computer Networks**: Understand protocols and network structures to detect and prevent attacks.  
-- **Operating Systems**: Secure system management and access control.  
-- **Cryptography**: Secure communication and data protection.  
-- **Information Security**: Detect and respond to security threats.  
