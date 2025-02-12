@@ -74,6 +74,12 @@ An interconnection of multiple devices, also known as hosts, that are connected 
 
 ---
 
+## What is the difference between TCP and UDP?
+- TCP (Transmission Control Protocol): A connection-oriented protocol that ensures reliable and ordered delivery of data. It is used for applications where data integrity is critical, like web browsing and email.
+- UDP (User Datagram Protocol): A connectionless protocol that does not guarantee delivery or order. It is used for applications where speed is more important than reliability, like streaming and gaming.
+
+---
+
 # 📡 Cơ bản về mạng máy tính 
 
 ## 🏆 Mạng máy tính hoạt động như thế nào?
@@ -152,4 +158,8 @@ Sự kết nối của nhiều thiết bị, còn được gọi là máy chủ,
 
 ---
 
+## Sự khác biệt giữa TCP và UDP là gì?
+- TCP (Transmission Control Protocol): Giao thức hướng kết nối đảm bảo việc phân phối dữ liệu đáng tin cậy và có thứ tự. Giao thức này được sử dụng cho các ứng dụng mà tính toàn vẹn của dữ liệu là rất quan trọng, như duyệt web và email.
+- UDP (User Datagram Protocol): Giao thức không kết nối không đảm bảo việc phân phối hoặc thứ tự. Giao thức này được sử dụng cho các ứng dụng mà tốc độ quan trọng hơn độ tin cậy, như livestream và chơi game.
 
+---
