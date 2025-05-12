@@ -1,4 +1,4 @@
-# Network Protocols and Proxies in System Design
+Databases in Designing Systems# Network Protocols and Proxies in System Design
 
 In system design, the effective functioning of networks is essential for seamless communication and data transfer. Network protocols and proxies play important roles in shaping the structure of the system, ensuring efficient data transmission, and improving security. This article explores the significance of network protocols and proxies in system design, their roles, and how they contribute to the overall functionality and security of a system.
 
